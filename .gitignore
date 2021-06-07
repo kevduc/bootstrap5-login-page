@@ -1,1 +1,8 @@
-node_modules
+node_modules/*
+!node_modules/bootstrap-icons
+
+node_modules/bootstrap-icons/*
+!node_modules/bootstrap-icons/icons
+
+node_modules/bootstrap-icons/icons/*
+!node_modules/bootstrap-icons/icons/bootstrap.svg
