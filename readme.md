@@ -8,5 +8,6 @@
 
 ## 🎯 Goal of this exercise
 
-- Try Bootstrap (I decided to try the latest version, version 5), use it to design a simple login UI, try Bootstrap 5 [Utility API](https://getbootstrap.com/docs/5.0/utilities/api/)
-- Practice SCSS
+- 👨‍🔬 Try Bootstrap (I decided to try the latest version, version 5)
+- 🎛 Design a simple login UI, try Bootstrap 5 [Utility API](https://getbootstrap.com/docs/5.0/utilities/api/)
+- 🎨 Practice SCSS
